@@ -12,6 +12,7 @@ public class GitTest {
         System.out.println("hello,world,hotfix");
         System.out.println("hello,world,master-test");
         System.out.println("hello,world,hotfix-text");
+        System.out.println("hello,world,github-text");
 
 
     }
